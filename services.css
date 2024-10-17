@@ -1,0 +1,30 @@
+
+body {
+    background-image: url(3e7b0700f82f4c31883fd70f7b386769.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navigation{
+    border: 2px solid white;
+    width: 100%;
+    height: 10%;
+    background-color:blue;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    list-style: none;
+    }
+li {
+    display: inline-block;
+}
+.navigation a{
+    color: white;
+    font-size: 2em;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.navigation a:hover{
+    background-color: black;
+}

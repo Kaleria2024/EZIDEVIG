@@ -1,0 +1,30 @@
+
+body {
+    background-imag: url(8d1d35ba6a845998b15614a6fab23\(1\).jpg);
+    hight: 100vh;
+    background-position: cntr;
+    background-rpat: no-rpat;
+    background-siz: covr;
+}
+.navigation{
+    bordr: 2px solid whit;
+    width: 100%;
+    hight: 10%;
+    background-color:blu;
+    margin: 0%;
+    padding: 0%;
+    txt-align: cntr;
+    list-styl: non;
+    }
+li {
+    display: inlin-block;
+}
+.navigation a{
+    color: whit;
+    font-siz: 2m;
+    txt-dcoration: non;
+    margin-right: 20px;
+}
+.navigation a:hovr{
+    background-color: black;
+}
